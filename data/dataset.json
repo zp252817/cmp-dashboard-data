@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "dataSource": "CMP 腾讯文档 Excel 副本",
-  "generatedAt": "2026-11-10T02:26:24.779814+00:00",
+  "generatedAt": "2026-11-12T01:42:51.857634+00:00",
   "source": {
     "mode": "excel-snapshot",
     "url": "https://docs.qq.com/sheet/DSkhGQUtZZWFFaWdB",
@@ -1063,6 +1063,12 @@
                 }
               }
             ]
+          },
+          {
+            "key": "versionTime",
+            "label": "版本时间（Maven 软件包更新时间）",
+            "valueType": "string",
+            "value": "2026-06-05T22:08:10.455+08:00"
           }
         ],
         "remark": "测量日期和构建、包体积、功能测试统计未在源表中提供。"
@@ -2091,7 +2097,19 @@
             }
           }
         ],
-        "measurementDate": null
+        "measurementDate": null,
+        "versionTime": "2026-06-05T14:08:10.455Z",
+        "versionTimestamp": 1780668490455,
+        "versionTimeSource": {
+          "type": "maven_asset_last_modified",
+          "field": "lastModified",
+          "repository": "maven-releases",
+          "groupId": "org.jetbrains.compose.ui",
+          "artifactId": "ui-ohosarm64",
+          "extension": "klib",
+          "url": "https://maven.eazytec-cloud.com/nexus/service/rest/v1/search/assets?maven.groupId=org.jetbrains.compose.ui&maven.artifactId=ui-ohosarm64&maven.baseVersion=1.9.2-0.3.0",
+          "artifactUrl": "https://maven.eazytec-cloud.com/nexus/repository/maven-releases/org/jetbrains/compose/ui/ui-ohosarm64/1.9.2-0.3.0/ui-ohosarm64-1.9.2-0.3.0.klib"
+        }
       }
     },
     {
@@ -2585,6 +2603,12 @@
                 }
               }
             ]
+          },
+          {
+            "key": "versionTime",
+            "label": "版本时间（Maven 软件包更新时间）",
+            "valueType": "string",
+            "value": "2026-06-29T22:06:11.985+08:00"
           }
         ],
         "remark": "测量日期和构建、包体积、功能测试统计未在源表中提供。"
@@ -3049,7 +3073,19 @@
             }
           }
         ],
-        "measurementDate": null
+        "measurementDate": null,
+        "versionTime": "2026-06-29T14:06:11.985Z",
+        "versionTimestamp": 1782741971985,
+        "versionTimeSource": {
+          "type": "maven_asset_last_modified",
+          "field": "lastModified",
+          "repository": "maven-develop",
+          "groupId": "org.jetbrains.compose.ui",
+          "artifactId": "ui-ohosarm64",
+          "extension": "klib",
+          "url": "https://maven.eazytec-cloud.com/nexus/service/rest/v1/search/assets?maven.groupId=org.jetbrains.compose.ui&maven.artifactId=ui-ohosarm64&maven.baseVersion=1.9.2-perf.0.3.0-03",
+          "artifactUrl": "https://maven.eazytec-cloud.com/nexus/repository/maven-develop/org/jetbrains/compose/ui/ui-ohosarm64/1.9.2-perf.0.3.0-03/ui-ohosarm64-1.9.2-perf.0.3.0-03.klib"
+        }
       }
     },
     {
@@ -3999,6 +4035,12 @@
                 }
               }
             ]
+          },
+          {
+            "key": "versionTime",
+            "label": "版本时间（Maven 软件包更新时间）",
+            "valueType": "string",
+            "value": "2026-06-05T22:08:10.455+08:00"
           }
         ],
         "remark": "测量日期和构建、包体积、功能测试统计未在源表中提供。"
@@ -4919,7 +4961,19 @@
             }
           }
         ],
-        "measurementDate": null
+        "measurementDate": null,
+        "versionTime": "2026-06-05T14:08:10.455Z",
+        "versionTimestamp": 1780668490455,
+        "versionTimeSource": {
+          "type": "maven_asset_last_modified",
+          "field": "lastModified",
+          "repository": "maven-releases",
+          "groupId": "org.jetbrains.compose.ui",
+          "artifactId": "ui-ohosarm64",
+          "extension": "klib",
+          "url": "https://maven.eazytec-cloud.com/nexus/service/rest/v1/search/assets?maven.groupId=org.jetbrains.compose.ui&maven.artifactId=ui-ohosarm64&maven.baseVersion=1.9.2-0.3.0",
+          "artifactUrl": "https://maven.eazytec-cloud.com/nexus/repository/maven-releases/org/jetbrains/compose/ui/ui-ohosarm64/1.9.2-0.3.0/ui-ohosarm64-1.9.2-0.3.0.klib"
+        }
       }
     },
     {
@@ -6781,6 +6835,12 @@
                 }
               }
             ]
+          },
+          {
+            "key": "versionTime",
+            "label": "版本时间（Maven 软件包更新时间）",
+            "valueType": "string",
+            "value": "2026-07-04T16:12:22.253+08:00"
           }
         ],
         "remark": "测量日期和构建、包体积、功能测试统计未在源表中提供。"
@@ -8613,7 +8673,19 @@
             }
           }
         ],
-        "measurementDate": null
+        "measurementDate": null,
+        "versionTime": "2026-07-04T08:12:22.253Z",
+        "versionTimestamp": 1783152742253,
+        "versionTimeSource": {
+          "type": "maven_asset_last_modified",
+          "field": "lastModified",
+          "repository": "maven-develop",
+          "groupId": "org.jetbrains.compose.ui",
+          "artifactId": "ui-ohosarm64",
+          "extension": "klib",
+          "url": "https://maven.eazytec-cloud.com/nexus/service/rest/v1/search/assets?maven.groupId=org.jetbrains.compose.ui&maven.artifactId=ui-ohosarm64&maven.baseVersion=1.9.2-0.4.0-23",
+          "artifactUrl": "https://maven.eazytec-cloud.com/nexus/repository/maven-develop/org/jetbrains/compose/ui/ui-ohosarm64/1.9.2-0.4.0-23/ui-ohosarm64-1.9.2-0.4.0-23.klib"
+        }
       }
     },
     {
@@ -10859,6 +10931,12 @@
                 }
               }
             ]
+          },
+          {
+            "key": "versionTime",
+            "label": "版本时间（Maven 软件包更新时间）",
+            "valueType": "string",
+            "value": "2026-07-16T23:37:23.694+08:00"
           }
         ],
         "remark": "测量日期和构建、包体积、功能测试统计未在源表中提供。"
@@ -13075,7 +13153,19 @@
             }
           }
         ],
-        "measurementDate": null
+        "measurementDate": null,
+        "versionTime": "2026-07-16T15:37:23.694Z",
+        "versionTimestamp": 1784216243694,
+        "versionTimeSource": {
+          "type": "maven_asset_last_modified",
+          "field": "lastModified",
+          "repository": "maven-develop",
+          "groupId": "org.jetbrains.compose.ui",
+          "artifactId": "ui-ohosarm64",
+          "extension": "klib",
+          "url": "https://maven.eazytec-cloud.com/nexus/service/rest/v1/search/assets?maven.groupId=org.jetbrains.compose.ui&maven.artifactId=ui-ohosarm64&maven.baseVersion=1.9.2-0.5.0-05",
+          "artifactUrl": "https://maven.eazytec-cloud.com/nexus/repository/maven-develop/org/jetbrains/compose/ui/ui-ohosarm64/1.9.2-0.5.0-05/ui-ohosarm64-1.9.2-0.5.0-05.klib"
+        }
       }
     },
     {
@@ -15321,6 +15411,12 @@
                 }
               }
             ]
+          },
+          {
+            "key": "versionTime",
+            "label": "版本时间（Maven 软件包更新时间）",
+            "valueType": "string",
+            "value": "2026-07-23T18:44:29.671+08:00"
           }
         ],
         "remark": "测量日期和构建、包体积、功能测试统计未在源表中提供。"
@@ -17537,7 +17633,19 @@
             }
           }
         ],
-        "measurementDate": null
+        "measurementDate": null,
+        "versionTime": "2026-07-23T10:44:29.671Z",
+        "versionTimestamp": 1784803469671,
+        "versionTimeSource": {
+          "type": "maven_asset_last_modified",
+          "field": "lastModified",
+          "repository": "maven-develop",
+          "groupId": "org.jetbrains.compose.ui",
+          "artifactId": "ui-ohosarm64",
+          "extension": "klib",
+          "url": "https://maven.eazytec-cloud.com/nexus/service/rest/v1/search/assets?maven.groupId=org.jetbrains.compose.ui&maven.artifactId=ui-ohosarm64&maven.baseVersion=1.9.2-0.5.0-11",
+          "artifactUrl": "https://maven.eazytec-cloud.com/nexus/repository/maven-develop/org/jetbrains/compose/ui/ui-ohosarm64/1.9.2-0.5.0-11/ui-ohosarm64-1.9.2-0.5.0-11.klib"
+        }
       }
     },
     {
@@ -19783,6 +19891,12 @@
                 }
               }
             ]
+          },
+          {
+            "key": "versionTime",
+            "label": "版本时间（Maven 软件包更新时间）",
+            "valueType": "string",
+            "value": "2026-07-23T18:44:29.671+08:00"
           }
         ],
         "remark": "测量日期和构建、包体积、功能测试统计未在源表中提供。"
@@ -21999,7 +22113,19 @@
             }
           }
         ],
-        "measurementDate": null
+        "measurementDate": null,
+        "versionTime": "2026-07-23T10:44:29.671Z",
+        "versionTimestamp": 1784803469671,
+        "versionTimeSource": {
+          "type": "maven_asset_last_modified",
+          "field": "lastModified",
+          "repository": "maven-develop",
+          "groupId": "org.jetbrains.compose.ui",
+          "artifactId": "ui-ohosarm64",
+          "extension": "klib",
+          "url": "https://maven.eazytec-cloud.com/nexus/service/rest/v1/search/assets?maven.groupId=org.jetbrains.compose.ui&maven.artifactId=ui-ohosarm64&maven.baseVersion=1.9.2-0.5.0-11",
+          "artifactUrl": "https://maven.eazytec-cloud.com/nexus/repository/maven-develop/org/jetbrains/compose/ui/ui-ohosarm64/1.9.2-0.5.0-11/ui-ohosarm64-1.9.2-0.5.0-11.klib"
+        }
       }
     },
     {
@@ -23861,6 +23987,12 @@
                 }
               }
             ]
+          },
+          {
+            "key": "versionTime",
+            "label": "版本时间（Maven 软件包更新时间）",
+            "valueType": "string",
+            "value": "2026-08-10T18:31:26.704+08:00"
           }
         ],
         "remark": "测量日期和构建、包体积、功能测试统计未在源表中提供。"
@@ -25693,7 +25825,19 @@
             }
           }
         ],
-        "measurementDate": null
+        "measurementDate": null,
+        "versionTime": "2026-08-10T10:31:26.704Z",
+        "versionTimestamp": 1786357886704,
+        "versionTimeSource": {
+          "type": "maven_asset_last_modified",
+          "field": "lastModified",
+          "repository": "maven-develop",
+          "groupId": "org.jetbrains.compose.ui",
+          "artifactId": "ui-ohosarm64",
+          "extension": "klib",
+          "url": "https://maven.eazytec-cloud.com/nexus/service/rest/v1/search/assets?maven.groupId=org.jetbrains.compose.ui&maven.artifactId=ui-ohosarm64&maven.baseVersion=1.9.2-0.5.0-28",
+          "artifactUrl": "https://maven.eazytec-cloud.com/nexus/repository/maven-develop/org/jetbrains/compose/ui/ui-ohosarm64/1.9.2-0.5.0-28/ui-ohosarm64-1.9.2-0.5.0-28.klib"
+        }
       }
     },
     {
@@ -27331,6 +27475,12 @@
                 }
               }
             ]
+          },
+          {
+            "key": "versionTime",
+            "label": "版本时间（Maven 软件包更新时间）",
+            "valueType": "string",
+            "value": "2026-09-10T13:32:17.595+08:00"
           }
         ],
         "remark": "测量日期和构建、包体积、功能测试统计未在源表中提供。"
@@ -28939,7 +29089,19 @@
             }
           }
         ],
-        "measurementDate": null
+        "measurementDate": null,
+        "versionTime": "2026-09-10T05:32:17.595Z",
+        "versionTimestamp": 1789018337595,
+        "versionTimeSource": {
+          "type": "maven_asset_last_modified",
+          "field": "lastModified",
+          "repository": "maven-develop",
+          "groupId": "org.jetbrains.compose.ui",
+          "artifactId": "ui-ohosarm64",
+          "extension": "klib",
+          "url": "https://maven.eazytec-cloud.com/nexus/service/rest/v1/search/assets?maven.groupId=org.jetbrains.compose.ui&maven.artifactId=ui-ohosarm64&maven.baseVersion=1.9.2-1.1.0-06",
+          "artifactUrl": "https://maven.eazytec-cloud.com/nexus/repository/maven-develop/org/jetbrains/compose/ui/ui-ohosarm64/1.9.2-1.1.0-06/ui-ohosarm64-1.9.2-1.1.0-06.klib"
+        }
       }
     },
     {
@@ -30577,6 +30739,12 @@
                 }
               }
             ]
+          },
+          {
+            "key": "versionTime",
+            "label": "版本时间（Maven 软件包更新时间）",
+            "valueType": "string",
+            "value": "2026-09-17T19:43:54.522+08:00"
           }
         ],
         "remark": "测量日期和构建、包体积、功能测试统计未在源表中提供。"
@@ -32185,7 +32353,19 @@
             }
           }
         ],
-        "measurementDate": null
+        "measurementDate": null,
+        "versionTime": "2026-09-17T11:43:54.522Z",
+        "versionTimestamp": 1789645434522,
+        "versionTimeSource": {
+          "type": "maven_asset_last_modified",
+          "field": "lastModified",
+          "repository": "maven-develop",
+          "groupId": "org.jetbrains.compose.ui",
+          "artifactId": "ui-ohosarm64",
+          "extension": "klib",
+          "url": "https://maven.eazytec-cloud.com/nexus/service/rest/v1/search/assets?maven.groupId=org.jetbrains.compose.ui&maven.artifactId=ui-ohosarm64&maven.baseVersion=1.9.2-1.1.0-13",
+          "artifactUrl": "https://maven.eazytec-cloud.com/nexus/repository/maven-develop/org/jetbrains/compose/ui/ui-ohosarm64/1.9.2-1.1.0-13/ui-ohosarm64-1.9.2-1.1.0-13.klib"
+        }
       }
     },
     {
@@ -33823,6 +34003,12 @@
                 }
               }
             ]
+          },
+          {
+            "key": "versionTime",
+            "label": "版本时间（Maven 软件包更新时间）",
+            "valueType": "string",
+            "value": "2026-10-15T18:57:13.968+08:00"
           }
         ],
         "remark": "测量日期和构建、包体积、功能测试统计未在源表中提供。"
@@ -35431,7 +35617,19 @@
             }
           }
         ],
-        "measurementDate": null
+        "measurementDate": null,
+        "versionTime": "2026-10-15T10:57:13.968Z",
+        "versionTimestamp": 1792061833968,
+        "versionTimeSource": {
+          "type": "maven_asset_last_modified",
+          "field": "lastModified",
+          "repository": "maven-develop",
+          "groupId": "org.jetbrains.compose.ui",
+          "artifactId": "ui-ohosarm64",
+          "extension": "klib",
+          "url": "https://maven.eazytec-cloud.com/nexus/service/rest/v1/search/assets?maven.groupId=org.jetbrains.compose.ui&maven.artifactId=ui-ohosarm64&maven.baseVersion=1.9.2-1.2.0-02",
+          "artifactUrl": "https://maven.eazytec-cloud.com/nexus/repository/maven-develop/org/jetbrains/compose/ui/ui-ohosarm64/1.9.2-1.2.0-02/ui-ohosarm64-1.9.2-1.2.0-02.klib"
+        }
       }
     },
     {
@@ -37069,6 +37267,12 @@
                 }
               }
             ]
+          },
+          {
+            "key": "versionTime",
+            "label": "版本时间（Maven 软件包更新时间）",
+            "valueType": "string",
+            "value": "2026-10-22T21:46:27.274+08:00"
           }
         ],
         "remark": "测量日期和构建、包体积、功能测试统计未在源表中提供。"
@@ -38677,7 +38881,19 @@
             }
           }
         ],
-        "measurementDate": null
+        "measurementDate": null,
+        "versionTime": "2026-10-22T13:46:27.274Z",
+        "versionTimestamp": 1792676787274,
+        "versionTimeSource": {
+          "type": "maven_asset_last_modified",
+          "field": "lastModified",
+          "repository": "maven-develop",
+          "groupId": "org.jetbrains.compose.ui",
+          "artifactId": "ui-ohosarm64",
+          "extension": "klib",
+          "url": "https://maven.eazytec-cloud.com/nexus/service/rest/v1/search/assets?maven.groupId=org.jetbrains.compose.ui&maven.artifactId=ui-ohosarm64&maven.baseVersion=1.9.2-1.2.0-07",
+          "artifactUrl": "https://maven.eazytec-cloud.com/nexus/repository/maven-develop/org/jetbrains/compose/ui/ui-ohosarm64/1.9.2-1.2.0-07/ui-ohosarm64-1.9.2-1.2.0-07.klib"
+        }
       }
     },
     {
@@ -40443,6 +40659,12 @@
                 }
               }
             ]
+          },
+          {
+            "key": "versionTime",
+            "label": "版本时间（Maven 软件包更新时间）",
+            "valueType": "string",
+            "value": "2026-10-29T22:52:34.377+08:00"
           }
         ],
         "remark": "测量日期和构建、包体积、功能测试统计未在源表中提供。"
@@ -42179,7 +42401,19 @@
             }
           }
         ],
-        "measurementDate": null
+        "measurementDate": null,
+        "versionTime": "2026-10-29T14:52:34.377Z",
+        "versionTimestamp": 1793285554377,
+        "versionTimeSource": {
+          "type": "maven_asset_last_modified",
+          "field": "lastModified",
+          "repository": "maven-releases",
+          "groupId": "org.jetbrains.compose.ui",
+          "artifactId": "ui-ohosarm64",
+          "extension": "klib",
+          "url": "https://maven.eazytec-cloud.com/nexus/service/rest/v1/search/assets?maven.groupId=org.jetbrains.compose.ui&maven.artifactId=ui-ohosarm64&maven.baseVersion=1.9.2-1.2.0",
+          "artifactUrl": "https://maven.eazytec-cloud.com/nexus/repository/maven-releases/org/jetbrains/compose/ui/ui-ohosarm64/1.9.2-1.2.0/ui-ohosarm64-1.9.2-1.2.0.klib"
+        }
       }
     }
   ]
